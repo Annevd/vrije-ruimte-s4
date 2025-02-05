@@ -291,3 +291,11 @@ Dag 2 bij US. Ik ben de dag begonnen met het inventariseren van wat ik kon gaan 
 Verder heb ik weer 3 kennismakingsgesprekken gehad en een workshop over US's [Formulieren API](#formulieren-api).
 
 Tussen de meetings door heb ik de hele dag gewerkt aan het [lokaal clonen van een project via een SSH Key](#lokaal-een-project-clonen-met-ssh) en het installeren van alles wat hiervoor nodig is. Het clonen van een project is gelukt, alleen het lokaal live krijgen nog niet. Dat wordt dus het doel voor morgen!
+
+## 5 februari 2025
+
+Dag 3 bij US en alweer de helft van de eerste week zit erop. We begonnen de dag zoals gewoonlijk met een standup waarin iedereen vertelde over wat we de dag ervoor gedaan hadden, of er nog knelpunten waren en wat we vandaag zouden gaan doen. 
+
+Het is op woensdsg "No meeting wednesday" dus ik had vandaag veel tijd om aan meerdere dingen te werken. Een groot deel van de dag heb ik besteed aan het opzetten van een projectboard voor mezelf, met daarin alle indicatoren en documentatie die ik schrijf tijdens de stage. Ook staat er een kolom in voor bewijslasten die ik er in kan zetten en vervolgens kan linken aan de indicatoren. Tot slot heb ik de eerste 7 indicatoren in eigen woorden omschreven en nagedacht over wat ik zou kunnen inleveren als bewijslast. Dit ga ik de eerst volgende keer dat ik er tijd voor heb afmaken.
+
+Aan het eind van de middag heb ik het voor elkaar gekregen dat de website lokaal kon runnen in mijn browser! Nadat dit gelukt was heeft Eva mij nog een aantal dingen uitgelegd over Wordpress en hoe ik bij het dashboard kom. Ook heeft zij mij alvast laten zien hoe ik content kan toevoegen en aanpassen aan bestaande pagina's.
