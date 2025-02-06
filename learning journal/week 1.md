@@ -300,3 +300,15 @@ Dag 3 bij US en alweer de helft van de eerste week zit erop. We begonnen de dag 
 Het is op woensdsg "No meeting wednesday" dus ik had vandaag veel tijd om aan meerdere dingen te werken. Een groot deel van de dag heb ik besteed aan het opzetten van een projectboard voor mezelf, met daarin alle indicatoren en documentatie die ik schrijf tijdens de stage. Ook staat er een kolom in voor bewijslasten die ik er in kan zetten en vervolgens kan linken aan de indicatoren. Tot slot heb ik de eerste 7 indicatoren in eigen woorden omschreven en nagedacht over wat ik zou kunnen inleveren als bewijslast. Dit ga ik de eerst volgende keer dat ik er tijd voor heb afmaken.
 
 Aan het eind van de middag heb ik het voor elkaar gekregen dat de website lokaal kon runnen in mijn browser! Nadat dit gelukt was heeft Eva mij nog een aantal dingen uitgelegd over Wordpress en hoe ik bij het dashboard kom. Ook heeft zij mij alvast laten zien hoe ik content kan toevoegen en aanpassen aan bestaande pagina's.
+
+## 6 februari 2025
+
+Zoals gewoonlijk begonnen we de dag met een daily standup.
+
+Van 10:00 tot ongeveer 13:30 hadden ik en de andere stagiaires een workshop over Wordpress, waar we een introductie kregen over de basisprincipes van Wordpress. Tijdens de workshop moesten we voor een nieuw project én een oud project elk een nieuwe post nabouwen, en een homepage nabouwen. 
+
+Na de workshop heb ik nog een uurtje gedocumenteerd over wat ik geleerd heb van de workshop, zodat ik het later makkelijk terug kan vinden.
+
+Vervolgens heb ik mijn eerste issue aangepakt en verwerkt! Ook daar heb ik alles van gedocumenteerd in een issue in mijn project board. Van deze issue staat nu een Pull Request open die wacht op review van mijn stagebegeleider.
+
+Toen ik daar klaar mee was heb ik de rest van de middag mijn voorbereiding voor school, alle gedragsindicatoren, afgemaakt.
