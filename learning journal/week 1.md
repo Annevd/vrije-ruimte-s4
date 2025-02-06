@@ -65,7 +65,7 @@
     - Wordpress, PHP based
     - Contentful, NodeJs
   - Front-end:
-    - HTML5/CSS3
+    - HTML5/CSS3 (BEM)
     - Javascript/Typescript
     - Progressive Web App Standards
     - JSON/Rest API’s
