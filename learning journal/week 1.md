@@ -47,6 +47,7 @@
   - Google drive
   - Planningsbord
   - Forecast: online planning
+
 **Productiviteit:**
   - Linear: agile project management tool
   - Youtrack: tickets systeem voor service en planningsbord (klanten zitten hier ook in)
