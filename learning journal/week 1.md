@@ -312,3 +312,9 @@ Na de workshop heb ik nog een uurtje gedocumenteerd over wat ik geleerd heb van 
 Vervolgens heb ik mijn eerste issue aangepakt en verwerkt! Ook daar heb ik alles van gedocumenteerd in een issue in mijn project board. Van deze issue staat nu een Pull Request open die wacht op review van mijn stagebegeleider.
 
 Toen ik daar klaar mee was heb ik de rest van de middag mijn voorbereiding voor school, alle gedragsindicatoren, afgemaakt.
+
+## 7 februari 2025
+
+De dag begon met het opzetten van de dag en de nodige voorbereidingen, met vervolgens weer een standup. Daarna had ik een presentatie gekregen over Angular waarvan ik aantekeningen heb genomen in mijn project board. Nadat ik dat had gedaan had ik nog een kennismaking, en daarna ben ik verder gaan werken aan een issue waarvan ik gelijk een PR heb gemaakt en laten reviewen. 
+
+Ook kreeg ik vandaag de stageopdracht te horen: Teamkeys. Samen met mijn stagegenoot en stagebegeleiders hebben we hierover gezeten en hebben we de nodige dingen besproken. Ik en Tom hebben meteen een enquete aangemaakt en verstuurd naar de rest van het team, om te inventariseren hoe de huide Keyring applicatie gevonden en gebruikt wordt. Daarna is het aan mij om een wireframe te gaan maken, dat vrijdag af zal zijn.
