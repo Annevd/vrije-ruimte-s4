@@ -25,3 +25,9 @@ Daarna heb ik nog een kennismaking gehad.
 Tot slot heb ik de rest van de hele dag gewerkt aan de wireframes voor Teamkeys, waarop we later op de dag nog een meeting hadden waar we feedback hierop kregen.
 
 ## 12 februari 2025
+
+Vandaag ben ik de dag begonnen met het documenteren van hoe ik `cherry-pick` met Git heb toegepast voor een issue van een klant.
+
+Vervolgens heb ik de feedback van de Teamkeys meeting van gister gedocumenteerd in ons projectboard.
+
+Daarna heb ik de rest van de gehele dag aan de tweede wireframe iteratie gewerkt, en heb ik wat nieuwe wireframes van pagina's toegevoegd, waarbij ik de gekregen feedback van gister heb meegenomen.
