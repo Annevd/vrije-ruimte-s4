@@ -31,3 +31,13 @@ Vandaag ben ik de dag begonnen met het documenteren van hoe ik `cherry-pick` met
 Vervolgens heb ik de feedback van de Teamkeys meeting van gister gedocumenteerd in ons projectboard.
 
 Daarna heb ik de rest van de gehele dag aan de tweede wireframe iteratie gewerkt, en heb ik wat nieuwe wireframes van pagina's toegevoegd, waarbij ik de gekregen feedback van gister heb meegenomen.
+
+## 13 februari 2025
+
+Ik ben de dag begonnen met het doorlezen van de frontend focus mail, waarvan ik in mijn [Internationale ontwikkelingen logboek](https://github.com/Annevd/i-love-web/blob/main/learning-journal/internationale-ontwikkelingen.md) aantekeningen van heb gemaakt. 
+
+Vervolgens heb ik tot aan de lunch mij verdiept in de fundamentele principes van Angular. Ik heb een deel van de [Angular tutorial](https://angular.dev/tutorials/learn-angular/) gevolgd, en daarna de docs alvast snel doorgelezen. 
+
+Daarna heb ik op Github een aparte [repo](https://github.com/Annevd/Angular) gemaakt waarin ik een Angular project heb opgezet om in te oefenen.
+
+Tot slot heb ik het tweede dagdeel besteed aan het verder uitwerken van de wireframes van Teamkeys.
