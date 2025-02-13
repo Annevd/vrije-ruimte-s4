@@ -6,6 +6,8 @@
   - [13/02](#13-februari-2025)
   - [14/02](#14-februari-2025)
 
+> TLDR: wireframes, wireframes, wireframes and more wireframes...
+
 ## 10 februari 2025
 
 Vandaag ben ik de dag begonnen met het installeren van alles wat ik nodig heb op de Macbook die ik van stage nu in gebruik heb. Denk aan Docker, VS code, Slack, Composer, NodeJS, PHP, Git en het opzetten van een nieuwe SSH key.
