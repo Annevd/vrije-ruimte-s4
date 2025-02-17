@@ -43,3 +43,11 @@ Vervolgens heb ik tot aan de lunch mij verdiept in de fundamentele principes van
 Daarna heb ik op Github een aparte [repo](https://github.com/Annevd/Angular) gemaakt waarin ik een Angular project heb opgezet om in te oefenen.
 
 Tot slot heb ik het tweede dagdeel besteed aan het verder uitwerken van de wireframes van Teamkeys.
+
+## 14 februari 2025
+
+Vandaag ben ik verder gegaan met het volgen van de Angular tutorial, waarvan ik ook weer aantekeningen heb gemaakt in de issue.
+
+Daarna ben ik weer verder gegaan aan de wireframes, waarvoor Tom en ik samen nog over hebben gezeten om te kijken wat we konden combineren. Hierna ben ik hiermee verder gegaan en ben ik begonnen aan een high-fi design met kleur.
+
+Verder had ik vandaag nog een kennismaking en een Us Presents in de middag.
