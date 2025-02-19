@@ -6,7 +6,7 @@
   - [20/02](#20-februari-2025)
   - [21/02](#21-februari-2025)
 
-> TLDR: Wireframes, Angular, Wireframes, Angular, Wireframes........PRESENTATION!!!!
+> TLDR: Wireframes, Angular, Wireframes, Angular, Wireframes.........
 
 ## 17 februari 2025
 
