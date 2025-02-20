@@ -22,3 +22,7 @@ Vervolgens had ik met Tom, Chris en Anne een meeting over de tweede Teamkeys ite
 Ik ben begonnen met het documenteren van het een en ander van gister, zoals het maken van een 404 page met Angular Routing. Na de daily standup ben ik weer verder gegaan aan de Teamkeys wireframes, 3de iteratie. Hier ben ik het meest van de dag wel mee bezig geweest.
 
 Verder heb ik de huidige Teamkeys repo gecloned en doorgespit.
+
+## 19 februari 2025
+
+Vandaag heb ik weer gewerkt aan de wireframes, waarna ik samen met Tom een aantal user stories daarvoor heb geschreven. Daarna heb ik nog voor school gedocumenteerd.
