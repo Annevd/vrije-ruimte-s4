@@ -26,3 +26,15 @@ Verder heb ik de huidige Teamkeys repo gecloned en doorgespit.
 ## 19 februari 2025
 
 Vandaag heb ik weer gewerkt aan de wireframes, waarna ik samen met Tom een aantal user stories daarvoor heb geschreven. Daarna heb ik nog voor school gedocumenteerd.
+
+## 20 februari
+
+In de ochtend ben ik begonnen met het proberen te deployen van mijn Angular oefen repository met Netlify. Dit was nieuw voor mij en nam dus aardig wat tijd in beslag, uiteindelijk is het wel gelukt!
+
+Vervolgens heb ik door de Frontend Focus en CSS Weekly mail heen gelezen en aantekeningen gedocumenteerd van interessante dingen. 
+
+Daarna heb ik uitgezocht hoe componenten werken in Angular, en heb dit daarna ook weer gedocumenteerd.
+
+Ook heb ik voor een uurtje een beetje onderzoek gedaan naar SCSS (Sass) en hoeveel het verschilt met CSS.
+
+Tot slot heb ik nog aan een redesign van mijn portfolio gewerkt.
