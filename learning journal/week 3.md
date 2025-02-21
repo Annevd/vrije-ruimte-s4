@@ -6,7 +6,7 @@
   - [20/02](#20-februari-2025)
   - [21/02](#21-februari-2025)
 
-> TLDR: Wireframes, Angular, Wireframes, Angular, Wireframes.........
+> TLDR: Wireframes, Angular, Wireframes, Angular, SCSS, Portfolio, Wireframes.........
 
 ## 17 februari 2025
 
@@ -27,7 +27,7 @@ Verder heb ik de huidige Teamkeys repo gecloned en doorgespit.
 
 Vandaag heb ik weer gewerkt aan de wireframes, waarna ik samen met Tom een aantal user stories daarvoor heb geschreven. Daarna heb ik nog voor school gedocumenteerd.
 
-## 20 februari
+## 20 februari 2025
 
 In de ochtend ben ik begonnen met het proberen te deployen van mijn Angular oefen repository met Netlify. Dit was nieuw voor mij en nam dus aardig wat tijd in beslag, uiteindelijk is het wel gelukt!
 
@@ -38,3 +38,13 @@ Daarna heb ik uitgezocht hoe componenten werken in Angular, en heb dit daarna oo
 Ook heb ik voor een uurtje een beetje onderzoek gedaan naar SCSS (Sass) en hoeveel het verschilt met CSS.
 
 Tot slot heb ik nog aan een redesign van mijn portfolio gewerkt.
+
+## 21 februari 2025
+
+Vandaag ben ik begonnen met het onderzoeken welke interacties er allemaal in het huidige Keyring zitten, en welke er écht in moéten. Deze heb ik op papier even opgeschreven en ben ik vervolgens lansgelopen tijdens het maken van de wireframes. Alle belangrijke pagina's en interacties hebben nu wireframes! 
+
+Verder heb ik een klein beetje aan het design gewerkt, vooral kleurencombinaties proberen en buttonkleuren veranderen. 
+
+Daarna heb ik nog 1,5 uur aan mijn portfolio redesign gewerkt.
+
+Tot slot had ik zoals elke vrijdag weer een Us Presents: dit keer over de Env file GCP stack (Koen).
