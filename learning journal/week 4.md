@@ -9,3 +9,5 @@
 > TLDR:
 
 ## 24 februari 2025
+
+Vandaag ben ik verder gegaan aan de Teamkeys wireframes en heb ik samen met Tom alle overige User STories gecshrvene. Daarna ben ik bewijslastatne doorlopen, meeting voorbereid, design contrasdt checks gedaan en de teamkeys meeting =gehad en wat feedback verwerkt.
