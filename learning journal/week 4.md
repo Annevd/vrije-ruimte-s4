@@ -10,4 +10,8 @@
 
 ## 24 februari 2025
 
-Vandaag ben ik verder gegaan aan de Teamkeys wireframes en heb ik samen met Tom alle overige User STories gecshrvene. Daarna ben ik bewijslastatne doorlopen, meeting voorbereid, design contrasdt checks gedaan en de teamkeys meeting =gehad en wat feedback verwerkt.
+In de ochtend ben ik begonnen met het verbeteren van de wireframes van Teamkeys, daarna heb ik tot aan de lunch met Tom de rest van alle user stories geschreven.
+
+Hierna heb ik voor school even gekeken wat ik voor bewijslast heb en wat ik nog moet verzamelen. Na dit gedaan te hebben heb ik van het kleurenpalet van US verschillende contrast checks gedaan, zodat ik een 100% toegankelijk design kan maken. 
+
+Vervolgens heb ik de Teamkeys meeting van 15:00 voorbereid, en na deze gehad te hebben wat feedback alvast verwerkt.
