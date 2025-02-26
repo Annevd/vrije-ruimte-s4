@@ -23,3 +23,11 @@ Vandaag ben ik begonnen met het afmaken van de feedback die ik gister op de wire
 Daarna ben ik begonnen met de 4de iteratie van de designs, waar ik heb gekeken naar het categoriseren van de knoppen op functionaliteit en type, en op basis daarvan ze kleuren toe te kennen. Ook heb ik meerdere secundaire/tertiaire kleuren verkend die bij het roze en geel van Us zouden passen. 
 
 In de middag heb ik aan mijn portfolio website gewerkt.
+
+## 25 februari 2024
+
+In de ochtend heb ik gewerkt aan de Teamkeys designs. Ook heb ik alvast onze presentatie van vrijdag voorbereid in een issue en een powerpoint bestandje opgezet. 
+
+Ik heb daarna alle wireframes ook gedocumenteerd.
+
+Tot slot heb ik nog 2 uurtjes aan mijn portfolio website gewerkt.
