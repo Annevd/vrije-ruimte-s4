@@ -15,3 +15,11 @@ In de ochtend ben ik begonnen met het verbeteren van de wireframes van Teamkeys,
 Hierna heb ik voor school even gekeken wat ik voor bewijslast heb en wat ik nog moet verzamelen. Na dit gedaan te hebben heb ik van het kleurenpalet van US verschillende contrast checks gedaan, zodat ik een 100% toegankelijk design kan maken. 
 
 Vervolgens heb ik de Teamkeys meeting van 15:00 voorbereid, en na deze gehad te hebben wat feedback alvast verwerkt.
+
+## 25 februari 2025
+
+Vandaag ben ik begonnen met het afmaken van de feedback die ik gister op de wireframes heb gekregen. 
+
+Daarna ben ik begonnen met de 4de iteratie van de designs, waar ik heb gekeken naar het categoriseren van de knoppen op functionaliteit en type, en op basis daarvan ze kleuren toe te kennen. Ook heb ik meerdere secundaire/tertiaire kleuren verkend die bij het roze en geel van Us zouden passen. 
+
+In de middag heb ik aan mijn portfolio website gewerkt.
