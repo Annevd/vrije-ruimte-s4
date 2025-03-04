@@ -14,3 +14,8 @@ _ziek_
 
 ## 4 maart 2024
 
+Vandaag ben ik de dag begonnen met het kijken naar de Frontend focus mailletter, en het documenteren van eventuele interessante dingen hiervan. Daarna heb ik in portflow indicator 4.1.1 volledig ingevuld.
+
+Verder heb ik aan Eva nog feedback gevraagd op mijn Teamkeys designs. Hier kwamen nuttige dingen uit zoals het minder gebruiken van veel verschillende kleuren, misleidende logo's en andere interessante dingen. Deze feedback heb ik vervolgens in een nieuwe, laatste iteratie verwerkt en gedocumenteerd in de issue. 
+
+Tussendoor ben ik af en toe bezig geweest met mijn portfoliowebsite en het bestuderen van de Teamkeys codebase.
