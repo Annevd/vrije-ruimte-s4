@@ -6,7 +6,7 @@
   - [27/02](#27-februari-2025)
   - [28/02](#28-februari-2025)
 
-> TLDR:
+> TLDR: Wireframes, portfolio, designs
 
 ## 24 februari 2025
 
