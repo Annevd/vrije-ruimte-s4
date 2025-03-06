@@ -29,3 +29,8 @@ Vervolgens heb ik de wireflows apart gezet in figma en duidelijker/netter gemaak
 Daarna ben ik indicator 4.4.2 in gaan vullen in Portflow.
 
 Tot slot heb ik nog aan mijn portfolio gewerkt en onderzoek gedaan naar angular/de teamkeys codebase.
+
+## 6 maart 2024
+
+In de ochtend heb ik eerst indicator 4.3.2 ingevuld. Na de daily standup ben ik verder gegaan met het documenteren van nieuwe internationale ontwikkelingen zoals CSS functions.
+Vervolgens heb ik nog even aan mijn portfolio gewerkt en heb ik de dag afgesloten met mijn Angular oefenproject, waar ik data vanuit de Weather API heb opgehaald en gerenderd in de UI.
