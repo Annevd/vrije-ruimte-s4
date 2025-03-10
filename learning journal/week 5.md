@@ -34,3 +34,7 @@ Tot slot heb ik nog aan mijn portfolio gewerkt en onderzoek gedaan naar angular/
 
 In de ochtend heb ik eerst indicator 4.3.2 ingevuld. Na de daily standup ben ik verder gegaan met het documenteren van nieuwe internationale ontwikkelingen zoals CSS functions.
 Vervolgens heb ik nog even aan mijn portfolio gewerkt en heb ik de dag afgesloten met mijn Angular oefenproject, waar ik data vanuit de Weather API heb opgehaald en gerenderd in de UI.
+
+## 7 maart 2024
+
+Vandaag had ik op school de eerste terugkomdag. Hier gingen wij in groepen van verschillende vrije ruimte-invullingen aan een tafel zitten, waarbij we besproken wat we de afgelopen 5 weken gedaan hebben en hoe het is gegaan. Daarna hebben we gekeken naar alle indicatoren en konden we hier vragen over stellen. 
