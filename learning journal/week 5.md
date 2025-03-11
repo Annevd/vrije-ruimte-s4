@@ -8,11 +8,11 @@
 
 > TLDR: Portflow, portfolio, school
 
-## 3 maart 2024
+## 3 maart 2025
 
 _ziek_
 
-## 4 maart 2024
+## 4 maart 2025
 
 Vandaag ben ik de dag begonnen met het kijken naar de Frontend focus mailletter, en het documenteren van eventuele interessante dingen hiervan. Daarna heb ik in portflow indicator 4.1.1 volledig ingevuld.
 
@@ -20,7 +20,7 @@ Verder heb ik aan Eva nog feedback gevraagd op mijn Teamkeys designs. Hier kwame
 
 Tussendoor ben ik af en toe bezig geweest met mijn portfoliowebsite en het bestuderen van de Teamkeys codebase.
 
-## 5 maart 2024
+## 5 maart 2025
 
 Vandaag ben ik begonnen met het testen van de Credits app van Kevin L, de andere stagiair bij Us. Hiervoor heb ik feedback geschreven en naar hem opgestuurd.
 
@@ -30,11 +30,11 @@ Daarna ben ik indicator 4.4.2 in gaan vullen in Portflow.
 
 Tot slot heb ik nog aan mijn portfolio gewerkt en onderzoek gedaan naar angular/de teamkeys codebase.
 
-## 6 maart 2024
+## 6 maart 2025
 
 In de ochtend heb ik eerst indicator 4.3.2 ingevuld. Na de daily standup ben ik verder gegaan met het documenteren van nieuwe internationale ontwikkelingen zoals CSS functions.
 Vervolgens heb ik nog even aan mijn portfolio gewerkt en heb ik de dag afgesloten met mijn Angular oefenproject, waar ik data vanuit de Weather API heb opgehaald en gerenderd in de UI.
 
-## 7 maart 2024
+## 7 maart 2025
 
 Vandaag had ik op school de eerste terugkomdag. Hier gingen wij in groepen van verschillende vrije ruimte-invullingen aan een tafel zitten, waarbij we besproken wat we de afgelopen 5 weken gedaan hebben en hoe het is gegaan. Daarna hebben we gekeken naar alle indicatoren en konden we hier vragen over stellen. 
