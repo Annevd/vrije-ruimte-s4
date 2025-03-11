@@ -17,3 +17,11 @@ Vervolgens heb ik nog wat dingen uit de CSS weekly van vorige week gedocumenteer
 Na de lunch had ik met Tom en Chris een meeting over de stand van de Teamkeys development en waar we nu mee verder kunnen. Na de meeting ben ik begonnen met het maken van een breakdownschets van de login pagina waar je nog niet ingelogd bent. 
 
 ## 11 maart 2025
+
+In de ochtend ben ik begonnen met het invullen van Portflow, vandaag 4.1.3. Vervolgens had ik om 10:30 een stagebezoek van Suus samen met mij en Anne. Hierin bespraken we de voortgang van mijn stage en de invulling van mijn leerdoelen.
+
+Hierna ben ik verder gegaan met het bouwen van de UI van de loginpagina in codepen, omdat de codebase nog iets te overweldigend was.
+
+Na de lunch had ik met Anne nog een persoonlijk voortgangsgesprek waarin we bespraken hoe de afgelopen maand verlopen is en of ik nog feedback had voor het bedrijf/mijn begeleider.
+
+Vervolgens heb ik nog 2 pull requests gereviewed en approved waarna ik de dag afsloot met wat documentatie over de CSS gerelateerde dingen uit de codebase.
