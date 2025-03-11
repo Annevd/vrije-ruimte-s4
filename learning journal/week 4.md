@@ -24,7 +24,7 @@ Daarna ben ik begonnen met de 4de iteratie van de designs, waar ik heb gekeken n
 
 In de middag heb ik aan mijn portfolio website gewerkt.
 
-## 26 februari 2024
+## 26 februari 2025
 
 In de ochtend heb ik gewerkt aan de Teamkeys designs. Ook heb ik alvast onze presentatie van vrijdag voorbereid in een issue en een powerpoint bestandje opgezet. 
 
@@ -32,10 +32,10 @@ Ik heb daarna alle wireframes ook gedocumenteerd.
 
 Tot slot heb ik nog 2 uurtjes aan mijn portfolio website gewerkt.
 
-## 27 februari 2024
+## 27 februari 2025
 
 _ziek_
 
-## 28 februari 2024
+## 28 februari 2025
 
 _ziek_
