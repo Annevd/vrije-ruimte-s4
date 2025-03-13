@@ -25,3 +25,13 @@ Hierna ben ik verder gegaan met het bouwen van de UI van de loginpagina in codep
 Na de lunch had ik met Anne nog een persoonlijk voortgangsgesprek waarin we bespraken hoe de afgelopen maand verlopen is en of ik nog feedback had voor het bedrijf/mijn begeleider.
 
 Vervolgens heb ik nog 2 pull requests gereviewed en approved waarna ik de dag afsloot met wat documentatie over de CSS gerelateerde dingen uit de codebase.
+
+## 12 maart 2025
+
+Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.3.1. Meteen hierna had ik zoals gebruikelijk de daily standup, maar dit keer deed ik daarna ook mee aan de CLOMP meeting. Hierin wordt besproken wie met welke service tickets bezig is en welke nog opgepakt moeten worden. Hier heb ik ook 1 ticket toegewezen gekregen.
+
+Hier heb ik toen naar gekeken, vergeleken met de Stichting Vluchteling codebase waarna ik wel al wat files heb kunnen aanmaken en code heb kunnen overnemen. Overigens vond ik het nog wel lastig dus ga ik morgen hier verder over zitten met Anne.
+
+Verder heb ik nog wat feedback opgeschrveen van mijn voortgangsgesprek van dinsdag en heb ik voor school nog wat feedbackvragen opgesteld voor mijn stagebegeleider om in te vullen.
+
+
