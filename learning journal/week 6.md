@@ -36,4 +36,8 @@ Verder heb ik nog wat feedback opgeschrveen van mijn voortgangsgesprek van dinsd
 
 ## 13 maart 2025
 
-Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.4.1.
+Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.4.1. Vervolgens had ik weer de daily standup en CLOMP meeting. Ook hier heb ik 3 extra tickets toegewezen gekregen naast mijn ticket voor connect for global change. Hier ga ik later nog naar kijken.
+
+Het grootste deel van de dag ben ik bezig geweest met de issue voor Connect for Global Change. Hier heeft Anne mij bij geholpen. De functionaliteit van het filter werkt nu als behoren, en de styling is nog het enige dat moet gebeuren.
+
+Tot slot heb ik met Tom nog onze presentatie van morgen voorbereid.
