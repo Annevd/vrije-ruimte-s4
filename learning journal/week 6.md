@@ -41,3 +41,7 @@ Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.4.1
 Het grootste deel van de dag ben ik bezig geweest met de issue voor Connect for Global Change. Hier heeft Anne mij bij geholpen. De functionaliteit van het filter werkt nu als behoren, en de styling is nog het enige dat moet gebeuren.
 
 Tot slot heb ik met Tom nog onze presentatie van morgen voorbereid.
+
+## 14 maart 2025
+
+Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.5.2.
