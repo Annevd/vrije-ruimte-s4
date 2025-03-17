@@ -6,7 +6,7 @@
   - [13/03](#13-maart-2025)
   - [14/03](#14-maart-2025)
 
-> TLDR:
+> TLDR: Meedraaien!
 
 ## 10 maart 2025
 
@@ -44,4 +44,6 @@ Tot slot heb ik met Tom nog onze presentatie van morgen voorbereid.
 
 ## 14 maart 2025
 
-Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.5.2.
+Zoals altijd begon ik in de ochtend met het invullen van Portflow, vandaag 4.5.2. Daarna ben ik verder gegaan met issue CGC-20, waar ik de filterknop heb ontworpen en gebouwd met SCSS. Hier heb ik een commit van gemaakt en in een PR gezet, die ik ga laten reviewen.
+
+Aan het eind van de dag heb ik samen met Tom de presentatie gegeven van onze wireframes en designs, tijdens de Us presents.
