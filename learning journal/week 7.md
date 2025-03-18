@@ -20,3 +20,13 @@ Verder heb ik vooral aan Teamkeys gewerkt: Ik heb kleur variabelen toegevoegd in
 Tot slot heb ik Anne nog toegang gegeven tot mijn portflow zodat ze feedback kan geven waar de docenten ook bij kunnen.
 
 ## 18 maart 2025
+
+Vanochtend ben ik begonnen met het invullen van portflow, vandaag 4.2.1. Daarna had ik om 10:00 de kickoff van het CICC project. Hier ga ik 2/3 dagen per week aan meedraaien vanaf deze week.
+
+Vervolgens heb ik de PR van CGC-20 gemerged en getest op staging, waarna ik de klant heb bericht dat het klaar staat om te testen.
+
+Daarna heb ik nog de feedback op de kleuren variabelen PR verwerkt, die ik na approval ook gemerged heb met develop.
+
+Tot slot heb ik nog met tom naar de Teamkeys database gekeken om te kijken hoe het in elkaar zit, wat weg kan, en wat moet blijven.
+
+
