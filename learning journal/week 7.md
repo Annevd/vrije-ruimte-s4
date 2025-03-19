@@ -29,4 +29,11 @@ Daarna heb ik nog de feedback op de kleuren variabelen PR verwerkt, die ik na ap
 
 Tot slot heb ik nog met tom naar de Teamkeys database gekeken om te kijken hoe het in elkaar zit, wat weg kan, en wat moet blijven.
 
+## 19 maart 2025
+
+Vandaag had ik een dag volledig aan school besteed. Ik ben begonnen met het invullen van portflow, vandaag 4.2.3. 
+
+Daarna heb ik de hele dag besteed aan het documenteren van mijn werk en presentaties. Denk aan het netjes maken van de US presents aantekeningen, hoe ik de Weather API heb toegepast in Angular en hoe de code van issue CGC-20/landenfilter in elkaar zit.
+
+
 
