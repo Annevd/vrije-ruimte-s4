@@ -6,7 +6,7 @@
   - [20/03](#20-maart-2025)
   - [21/03](#21-maart-2025)
 
-> TLDR:
+> TLDR: Portflow, Teamkeys, CICC, CICC, CICC...
 
 ## 17 maart 2025
 
@@ -45,3 +45,7 @@ Tot slot heb ik nog gedocumenteerd over hoe ik BEM heb toegepast op de issues ca
 
 ## 21 maart 2025
 
+Vandaag ben ik in de ochtend begonnen met het verwerken van feedback op de PR van de FAQ, waarna ik hem na review gemerged heb met `develop`. Vervolgens heb ik nog 1 indicator in portflow ingevuld, namelijk 4.1.2. 
+Verder heb ik de hele dag aan issues van de CICC gewerkt, feedback verwerkt en PRs gemaakt.
+
+Tot slot heb ik goedkeuring gekregen om issue CGC-20 van het landenfilter naar `master`/productie (live) te mergen!
