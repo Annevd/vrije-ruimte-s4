@@ -35,5 +35,13 @@ Vandaag had ik een dag volledig aan school besteed. Ik ben begonnen met het invu
 
 Daarna heb ik de hele dag besteed aan het documenteren van mijn werk en presentaties. Denk aan het netjes maken van de US presents aantekeningen, hoe ik de Weather API heb toegepast in Angular en hoe de code van issue CGC-20/landenfilter in elkaar zit.
 
+## 20 maart 2025
 
+Vandaag ben ik in de ochtend begonnen met de daily standup, met als volgt de CICC standup. Hierna heb ik een aantal issues gekregen waar ik aan kon gaan werken vandaag en morgen. Ik heb het component van de highlight afgemaakt en wacht op review van het FAQ component.
+
+Daarna heb ik in portflow 4.4.3 geschreven.
+
+Tot slot heb ik nog gedocumenteerd over hoe ik BEM heb toegepast op de issues can CGC en CICC.
+
+## 21 maart 2025
 
