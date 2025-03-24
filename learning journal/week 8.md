@@ -10,3 +10,4 @@
 
 ## 24 maart 2025
 
+Vandaag heb ik verder gewerk aan een aantal issues en PR's voor de CICC. Aan het eind van de dag heb ik samen met Tom de retrospective nog voorbereid.
