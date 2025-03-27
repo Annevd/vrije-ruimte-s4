@@ -23,3 +23,11 @@ Vervolgens heb ik gewerkt aan de carrousel component en heb ik de feedback van d
 Ook heb ik nog een korte retrospective gehad met Tom en Chris, om te reflecteren op onze werkwijze en resultaten de afgelopen 8 weken.
 
 Tot slot had ik de eerste iteratiemeeting van de CICC om 17:00.
+
+## 26 maart 2025
+
+Vandaag had ik een schooldagje. Ik heb bij de meeste indicatoren de puntjes op de i gezet, op 2 na. De laatste paar dingetjes ga ik morgen afmaken.
+
+Verder had ik in de middag de officiele lancering van de Bieb in Bloei website!
+
+## 27 maart 2025
