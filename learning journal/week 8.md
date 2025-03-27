@@ -31,3 +31,9 @@ Vandaag had ik een schooldagje. Ik heb bij de meeste indicatoren de puntjes op d
 Verder had ik in de middag de officiele lancering van de Bieb in Bloei website!
 
 ## 27 maart 2025
+
+Vandaag ben ik in de ochtend verder gegaan met de laatste paar bewijslasten. Ik heb 4.4.3 en 4.5.2 nagelopen, en heb 4.5.1 er bij geschreven. Ook heb ik weer wat internationale ontwikkelingen gedocumenteerd in mijn learning journal en heb ik wat vragen voorbereid voor de terugkomdag van morgen.
+
+Ook heb ik nog een PR van Tom opnieuw gereviewed voor Teamkeys, en heb ik zelf ook een PR gemaakt voor de login UI.
+
+Daarna ben ik begonnen aan het bouwen van de sidebar in codepen.
