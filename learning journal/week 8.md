@@ -37,3 +37,7 @@ Vandaag ben ik in de ochtend verder gegaan met de laatste paar bewijslasten. Ik 
 Ook heb ik nog een PR van Tom opnieuw gereviewed voor Teamkeys, en heb ik zelf ook een PR gemaakt voor de login UI.
 
 Daarna ben ik begonnen aan het bouwen van de sidebar in codepen.
+
+## 28 maart 2025
+
+Vandaag had ik een terugkomdag op school. Hier gingen we elkaars portflow reviewen en feedback erop geven. Na wat feedback verwerkt te hebben en de puntjes op de i gezet te hebben hebik het ingeleverd!
